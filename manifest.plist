@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://mlife.jf365ppt.boc.cn/mlife/ios/image57.png</string>
+					<string>https://raw.githubusercontent.com/a81124896/ios/master/image57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://mlife.jf365ppt.boc.cn/mlife/ios/image512.png</string>
+					<string>https://raw.githubusercontent.com/a81124896/ios/master/image512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
